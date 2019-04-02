@@ -1,0 +1,16 @@
+Author: Iva Alabasovska <iva.alabasovska@gmail.com>
+Date:   Tue Apr 2 15:11:55 2019 +0200
+
+    Proba
+
+commit 70176893c28a4bfaddf0f23040376ed3e6f58ea4 (origin/master)
+Author: Iva Alabasovska <iva.alabasovska@gmail.com>
+Date:   Tue Apr 2 15:01:18 2019 +0200
+
+    modify l1.txt
+
+commit f94f135a01ee74e66a07fb190443068addc127ea
+Author: Iva Alabasovska <iva.alabasovska@gmail.com>
+Date:   Tue Apr 2 14:59:42 2019 +0200
+
+    Initial commit
